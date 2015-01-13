@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">mom</string>
-    <string name="hello_world">Hello world! raintype!!</string>
+    <string name="hello_world">Hello world! raintype!!!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
